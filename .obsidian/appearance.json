@@ -1,0 +1,10 @@
+{
+  "accentColor": "#59c2c9",
+  "theme": "system",
+  "interfaceFontFamily": "Inter,Helvetica,Comic Sans MS",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
+}

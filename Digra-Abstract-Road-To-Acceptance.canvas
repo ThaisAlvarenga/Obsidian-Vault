@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"7ccbbd3d2727a42e","type":"text","text":"Topic: ","x":-362,"y":-180,"width":380,"height":180,"color":"5"},
+		{"id":"72fdd03caadda411","type":"text","text":"Inner voice /\nPlayer Character's Musings /\nMind's Voice /","x":120,"y":-399,"width":300,"height":145,"color":"4"},
+		{"id":"ecab195d79abb464","type":"text","text":"**Subjective Narrative**\nDescribes the narrative style that is closely tied to the character's thoughts and experiences.","x":85,"y":-720,"width":370,"height":120,"color":"3"},
+		{"id":"2787bf89f67b3732","type":"text","text":"Internal Monologue","x":145,"y":208,"width":250,"height":60,"color":"4"},
+		{"id":"bfc679373bc26317","type":"text","text":"Animation as memory","x":-297,"y":118,"width":250,"height":60,"color":"4"},
+		{"id":"564fdd02ef82da89","type":"text","text":"**Narrative Soliloquy**: Suggests that the character is engaging in a form of soliloquy, expressing their thoughts and feelings aloud or internally.","x":-329,"y":360,"width":315,"height":143,"color":"3"},
+		{"id":"7a9289880795e6dc","type":"text","text":"**Inner Commentary**: Denotes the character's commentary on the events and surroundings from their unique perspective.","x":-395,"y":-381,"width":338,"height":109,"color":"4"}
+	],
+	"edges":[
+		{"id":"778e74e09949fa22","fromNode":"72fdd03caadda411","fromSide":"left","toNode":"7a9289880795e6dc","toSide":"right"},
+		{"id":"b1426a57ed0bbbc3","fromNode":"7ccbbd3d2727a42e","fromSide":"bottom","toNode":"bfc679373bc26317","toSide":"top"},
+		{"id":"2a96c03353a15f4f","fromNode":"bfc679373bc26317","fromSide":"bottom","toNode":"564fdd02ef82da89","toSide":"top"},
+		{"id":"72a57dbed4537c75","fromNode":"7a9289880795e6dc","fromSide":"top","toNode":"ecab195d79abb464","toSide":"left"},
+		{"id":"72c8b44856e014b3","fromNode":"72fdd03caadda411","fromSide":"top","toNode":"ecab195d79abb464","toSide":"bottom"},
+		{"id":"14a0da5dec525e2f","fromNode":"7ccbbd3d2727a42e","fromSide":"right","toNode":"72fdd03caadda411","toSide":"bottom"},
+		{"id":"c313269a2651235e","fromNode":"72fdd03caadda411","fromSide":"bottom","toNode":"2787bf89f67b3732","toSide":"top"},
+		{"id":"36dee1475c60a62e","fromNode":"564fdd02ef82da89","fromSide":"right","toNode":"2787bf89f67b3732","toSide":"bottom"}
+	]
+}
