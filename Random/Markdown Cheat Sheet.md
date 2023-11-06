@@ -63,4 +63,4 @@ def function() -> int:
 [^1] This is a footnote
 
 Below is an image preview
-![this is an image preview of a page](Home.md)
+![this is an image preview of a page](README.md)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "README.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
   "active": "77c8e113dafeebe5",
   "lastOpenFiles": [
     "Digra-Abstract-Road-To-Acceptance.canvas",
-    "Home.md",
+    "README.md",
     "Reflections/ludonarratives-of-the-oppressed-research-questions.md",
     "Reflections/2023-11-06.md",
     "Noteworthy/follow-your-bliss.md",
