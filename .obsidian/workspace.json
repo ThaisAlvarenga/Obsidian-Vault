@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8875dc0ea8a0f7a5",
+        "id": "2fbf55911863e82a",
         "type": "tabs",
         "children": [
           {
-            "id": "77c8e113dafeebe5",
+            "id": "e9b763d5566c9c40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,36 +128,35 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "77c8e113dafeebe5",
+  "active": "e9b763d5566c9c40",
   "lastOpenFiles": [
-    "README.md",
     "Digra-Abstract-Road-To-Acceptance.canvas",
-    "Home.md",
+    "Scholars/Paulo Freire.md",
+    "Other-Non-Media-Topics/Pedagogies of the Oppressed.md",
+    "Media/The Strange Case of Dr. Jekyll and Mr. Hyde.md",
+    "Other-Non-Media-Topics/Psychology/Jungian Shadow.md",
+    "Topics-Terminology/gothic.md",
+    "Dictionary.md",
+    "Narratology/Narrative structure.md",
+    "Topics-Terminology/narratology.md",
+    "Topics-Terminology/multisequential.md",
+    "Noteworthy/The Thinking Woman's Feely.md",
+    "Noteworthy/Brave New World.md",
+    "Topics-Terminology/ludology of the oppressed.md",
+    "References/frasca-2001.md",
     "Reflections/ludonarratives-of-the-oppressed-research-questions.md",
+    "Scholars/Jean Piaget.md",
+    "README.md",
+    "Home.md",
     "Reflections/2023-11-06.md",
     "Noteworthy/follow-your-bliss.md",
     "Media Theory.canvas",
     "Bibliography.md",
-    "Dictionary.md",
     "Random/Markdown Cheat Sheet.md",
-    "Other-Non-Media-Topics/Psychology/Jungian Shadow.md",
     "Scholars/Carl Jung.md",
     "References/Narratology/campbell-2008.md",
     "Topics-Terminology/monomyth or The Hero's Journey.md",
     "Narratology/Solace-is-multisequential-and-nonlinear.md",
-    "Narratology/sequential-vs-linear.md",
-    "Topics-Terminology/multisequential.md",
-    "Narratology/Narrative structure.md",
-    "Scholars/Janet H. Murray.md",
-    "Scholars/Gonzalo Frasca.md",
-    "References/XR/murray-2017.md",
-    "References/srinivasan-1995.md",
-    "Topics-Terminology/haptics.md",
-    "Topics-Terminology/holodeck.md",
-    "74.md",
-    "Noteworthy/Brave New World.md",
-    "Noteworthy/Captain Kathryn Janeway.md",
-    "Noteworthy/the feelies.md",
     "Random/obsidian-vr-logo.png",
     "Random/home.gif",
     "Random/Screenshot 2023-11-06 at 03.48.23.png",

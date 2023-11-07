@@ -9,6 +9,7 @@ Topics:
 aliases:
   - Videogames of the Oppressed
   - MIT
+  - Frasca
 ---
 # Videogames Of The Oppressed
 *Videogames As A Means For Critical Thinking AND Debate*
@@ -23,4 +24,4 @@ Frasca, Gonzalo. _Videogames of the oppressed: Videogames as a means for critic
 
 💭 The title makes me think of  [[Paulo Freire]]'s [[Pedagogies of the Oppressed]]
 
-Wow, after reading the thesis, Fresca actually makes reference to Freire's work and dedicates a section to his theory in combination with [[Jean Piaget]]'s. 
+	Wow, after reading the thesis, Fresca actually makes reference to Freire's work and dedicates a section to his theory in combination with [[Jean Piaget]]'s. 
