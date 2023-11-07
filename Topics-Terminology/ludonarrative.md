@@ -1,8 +1,4 @@
----
-tags:
-  - terms
----
-
+#terms #Videogame 
 
 Related:
 [[ludology]]

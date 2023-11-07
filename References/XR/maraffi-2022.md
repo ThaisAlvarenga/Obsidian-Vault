@@ -2,11 +2,15 @@
 tags:
   - Books
   - Chapter
-  - VR
+  - virtual-reality
 Topics:
   - VR
   - Avatars
+aliases:
+  - VR Storytelling for Social Justice and the Ethics of Playing Black Bodies
+  - Maraffi
 ---
+# VR Storytelling for Social Justice and the Ethics of Playing Black Bodies
 
 [[Bibliography]]
 Maraffi, Christopher. "VR Storytelling for Social Justice and the Ethics of Playing Black Bodies." _The Changing Face of VR: Pushing the Boundaries of Experience across Multiple Industries_ (2022): 17-33.

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2fbf55911863e82a",
+        "id": "7f59b99ae897f5cb",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b763d5566c9c40",
+            "id": "99fdf73ff206a608",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reflections/2023-11-06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reflections/2023-11-06.md"
+              }
             }
           },
           {
@@ -100,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reflections/2023-11-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,39 +136,42 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e9b763d5566c9c40",
+  "active": "99fdf73ff206a608",
   "lastOpenFiles": [
-    "Digra-Abstract-Road-To-Acceptance.canvas",
-    "Scholars/Paulo Freire.md",
-    "Other-Non-Media-Topics/Pedagogies of the Oppressed.md",
-    "Media/The Strange Case of Dr. Jekyll and Mr. Hyde.md",
-    "Other-Non-Media-Topics/Psychology/Jungian Shadow.md",
+    "Untitled.canvas",
     "Topics-Terminology/gothic.md",
-    "Dictionary.md",
-    "Narratology/Narrative structure.md",
-    "Topics-Terminology/narratology.md",
-    "Topics-Terminology/multisequential.md",
-    "Noteworthy/The Thinking Woman's Feely.md",
-    "Noteworthy/Brave New World.md",
-    "Topics-Terminology/ludology of the oppressed.md",
-    "References/frasca-2001.md",
-    "Reflections/ludonarratives-of-the-oppressed-research-questions.md",
-    "Scholars/Jean Piaget.md",
-    "README.md",
-    "Home.md",
-    "Reflections/2023-11-06.md",
-    "Noteworthy/follow-your-bliss.md",
-    "Media Theory.canvas",
-    "Bibliography.md",
-    "Random/Markdown Cheat Sheet.md",
-    "Scholars/Carl Jung.md",
-    "References/Narratology/campbell-2008.md",
     "Topics-Terminology/monomyth or The Hero's Journey.md",
+    "Topics-Terminology/ludonarrative.md",
+    "Topics-Terminology/haptics.md",
+    "Topics-Terminology/ludology of the oppressed.md",
+    "Topics-Terminology/ludology.md",
+    "Topics-Terminology/holograms.md",
+    "Topics-Terminology/multisequential.md",
+    "Topics-Terminology/narratology.md",
+    "Topics-Terminology/unisequential.md",
+    "Topics-Terminology/spatial narrative.md",
+    "Topics-Terminology/holodeck.md",
+    "References/srinivasan-1995.md",
     "Narratology/Solace-is-multisequential-and-nonlinear.md",
+    "References/XR/maraffi-2022.md",
+    "References/Narratology/ryan-2001.md",
+    "References/XR/murray-2017.md",
+    "References/frasca-2001.md",
+    "References/Narratology/ryan-2006.md",
+    "References/Narratology/mckee-2005.md",
+    "References/Narratology/campbell-2008.md",
+    "Reading List.md",
+    "Narratology/Narrative structure.md",
+    "Reflections/VR can help us enter character minds.md",
+    "Reflections/ludonarratives-of-the-oppressed-research-questions.md",
     "Random/obsidian-vr-logo.png",
     "Random/home.gif",
     "Random/Screenshot 2023-11-06 at 03.48.23.png",
-    "Untitled.canvas",
+    "Papers/Digra-Abstract-Road-To-Acceptance.canvas",
+    "Literature Notes",
+    "How to take notes",
+    "Papers",
+    "Media Theory.canvas",
     "Home.md.sb-5c685054-cVdfP3",
     "Home.md.sb-5c685054-cWoFt3",
     "Home.md.sb-5c685054-svHLWa",
@@ -168,9 +179,6 @@
     "Other-Non-Media-Topics/Psychology",
     "Random",
     "Narratology",
-    "Noteworthy",
-    "References/XR",
-    "Reflections",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",

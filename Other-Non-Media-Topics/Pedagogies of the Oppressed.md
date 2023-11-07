@@ -1,8 +1,5 @@
----
-tags:
-  - Books
-  - Oppression
----
+#Books #Oppression 
+
 Written by [[Paulo Freire]]
 
 [[Extended Bibliography]]

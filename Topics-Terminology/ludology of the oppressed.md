@@ -1,4 +1,4 @@
-#Oppression 
+#Oppression #videogames 
 
 Reframes Freire's [[Pedagogies of the Oppressed]] by applying it to the context of video games.
 

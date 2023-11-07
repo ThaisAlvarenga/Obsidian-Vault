@@ -6,4 +6,4 @@ This is a important clarification as the terminology can limit the way we think 
 
 [[multisequential|Multisequential]] and [[unisequential]] are more descriptive, thus encouraging the careful design and construction of complex and coherent story forms. 
 
-[[Solace-is-multisequential-and-nonlinear]]
+This clarification led me to the conclusion that my capstone project [[Solace-is-multisequential-and-nonlinear]]

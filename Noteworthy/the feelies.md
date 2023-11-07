@@ -1,1 +1,1 @@
-A theater like fasility in [[Brave New World]]
+A theater like facility in [[Brave New World]]

@@ -1,0 +1,1 @@
+Murray explains in [[murray-2017|Hamlet on the Holodeck]] how VR can help us enter the mind of the character through embodiment and inner commentary. Thus, we can develop a more intimate relationship between the interactor/user and the character.

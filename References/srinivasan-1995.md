@@ -1,7 +1,7 @@
 ---
 tags:
   - Paper
-  - Haptics
+  - haptics
 Topics:
   - Human Experience
   - Haptics
@@ -9,6 +9,7 @@ aliases:
   - haptics
   - Srinivasan
   - MIT
+  - What is haptics
 ---
 
 [[Bibliography]]

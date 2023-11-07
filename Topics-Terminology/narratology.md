@@ -1,7 +1,4 @@
----
-tags:
-  - terms
----
+#terms
 
 Key academics:
 - [[murray-2017|Janet Murray]]

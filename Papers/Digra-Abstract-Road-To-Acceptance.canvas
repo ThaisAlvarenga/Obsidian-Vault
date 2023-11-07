@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"a6ff7434ea0abc07","x":529,"y":797,"width":364,"height":200,"type":"file","file":"Reflections/VR can help us enter character minds.md"},
 		{"id":"bfc679373bc26317","type":"text","text":"The **introduction video** uses **animations** as a way to show main character's memory.","x":-376,"y":180,"width":250,"height":140,"color":"4"},
 		{"id":"2787bf89f67b3732","type":"text","text":"Internal Monologue","x":220,"y":220,"width":250,"height":60,"color":"4"},
 		{"id":"bf95967a2d5e472d","type":"text","text":"narrated through","x":-57,"y":220,"width":250,"height":60},
@@ -20,9 +21,8 @@
 		{"id":"28edece012f76458","type":"text","text":"Mechanics","x":-693,"y":-530,"width":250,"height":50,"color":"4"},
 		{"id":"f1c619174f1bb73d","type":"text","text":"Introduces the context of the charcter and the lore of the world.","x":-93,"y":394,"width":277,"height":84},
 		{"id":"564fdd02ef82da89","type":"text","text":"**Narrative Soliloquy**: Suggests that the character is engaging in a form of soliloquy, expressing their thoughts and feelings aloud or internally.","x":-425,"y":492,"width":350,"height":143,"color":"3"},
-		{"id":"864b0f71aafd092d","x":529,"y":797,"width":364,"height":200,"color":"6","type":"text","text":"Janet Murray explains in Hamlet on the Holodeck how VR can help us enter the mind of the character through embodiment and inner commentary. Thus, we can develop a more intimate relationship between the interactor and the character."},
-		{"id":"96929a16de3b9c5f","x":-693,"y":-450,"width":250,"height":60,"color":"6","type":"text","text":"Refernces"},
-		{"id":"66c77db5d97a06ae","x":-693,"y":-360,"width":250,"height":60,"type":"text","text":"Explanations"}
+		{"id":"96929a16de3b9c5f","type":"text","text":"Refernces","x":-693,"y":-450,"width":250,"height":60,"color":"6"},
+		{"id":"66c77db5d97a06ae","type":"text","text":"Explanations","x":-693,"y":-360,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"778e74e09949fa22","fromNode":"72fdd03caadda411","fromSide":"left","toNode":"7a9289880795e6dc","toSide":"right"},
@@ -51,6 +51,6 @@
 		{"id":"2ecf28deb1fdd6c8","fromNode":"48ffcf1d91b94e33","fromSide":"bottom","toNode":"3a57e316eb0477a7","toSide":"top"},
 		{"id":"bb1eb9fe84e06820","fromNode":"3a57e316eb0477a7","fromSide":"bottom","toNode":"b2a5d7dbfcd23ebc","toSide":"right"},
 		{"id":"818ba64913dbac47","fromNode":"af06555a2ac788ff","fromSide":"right","toNode":"b2a5d7dbfcd23ebc","toSide":"left"},
-		{"id":"db39f99ff8f4d15e","fromNode":"48ffcf1d91b94e33","fromSide":"right","toNode":"864b0f71aafd092d","toSide":"right"}
+		{"id":"db39f99ff8f4d15e","fromNode":"48ffcf1d91b94e33","fromSide":"right","toNode":"a6ff7434ea0abc07","toSide":"right"}
 	]
 }

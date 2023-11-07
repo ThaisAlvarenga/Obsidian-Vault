@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"dcdd5ec96590dfbf","type":"file","file":"References/XR/murray-2017.md","x":-240,"y":-200,"width":460,"height":260,"color":"5"},
-		{"id":"f1f64f00740094b7","type":"file","file":"References/XR/ryan-2001.md","x":-720,"y":-1000,"width":480,"height":320,"color":"5"}
+		{"id":"f1f64f00740094b7","type":"file","file":"References/Narratology/ryan-2001.md","x":-720,"y":-1000,"width":480,"height":320,"color":"5"}
 	],
 	"edges":[]
 }

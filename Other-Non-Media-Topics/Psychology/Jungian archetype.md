@@ -1,10 +1,4 @@
----
-tags:
-  - Psychology
-  - terms
-Topics:
-  - Psychology
----
+#terms #Psychology 
 
 Jungian archetypes are like ==universal patterns or symbols that exist in the human mind==. They are basic, fundamental ideas or concepts that everyone shares, regardless of their culture or background. 
 

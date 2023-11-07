@@ -1,9 +1,5 @@
----
-tags:
-  - terms
-Topics:
-  - Psychology
----
+#terms #Psychology 
+
 Proposed by [[Carl Jung]], the Jungian shadow is an [[Jungian archetype]]. 
 
 Concept that comes from Jung's model of the psyche used in [[Jungian psychology|analytical psychology]]. 

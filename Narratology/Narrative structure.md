@@ -2,7 +2,8 @@
 
 General terminology
 - [[multiform]]
-- [[multisequential]]
+- [[multisequential]] and [[unisequential]]
+- [[sequential-vs-linear]]
 
 Types of structures
 - [[monomyth or The Hero's Journey]]
