@@ -1,4 +1,4 @@
-#terms 
+#terms #narratology 
 
 [[Narrative structure]] that allow the user to move through multiple sequences of the same story. 
 

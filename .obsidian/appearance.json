@@ -1,10 +1,11 @@
 {
-  "accentColor": "#59c2c9",
-  "theme": "system",
+  "accentColor": "#52c2c9",
+  "theme": "moonstone",
   "interfaceFontFamily": "Inter,Helvetica,Comic Sans MS",
   "translucency": true,
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"
-  ]
+  ],
+  "cssTheme": "Serenity"
 }

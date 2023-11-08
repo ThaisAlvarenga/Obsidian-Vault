@@ -55,8 +55,7 @@ def function() -> int:
 
 	for i in xrange(10):
 		count +=1 
-
-
+		
 	return count
 ```
 

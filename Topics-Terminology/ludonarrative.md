@@ -1,4 +1,4 @@
-#terms #Videogame 
+#terms #videogames  #narratology 
 
 Related:
 [[ludology]]

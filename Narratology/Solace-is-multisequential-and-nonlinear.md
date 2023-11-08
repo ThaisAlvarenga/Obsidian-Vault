@@ -1,4 +1,4 @@
-#Narratology #virtual-reality 
+#Narratology #virtual-reality
 
 > 💡 I particularly resonated with Murray's clarification on sequential and linear terminology because my capstone, [[Solace]], was originally going to be "non-linear" as I would implement. However, the more I prototyped the story, the more I discovered that a branched modality was not the correct form for my narrative. 
 

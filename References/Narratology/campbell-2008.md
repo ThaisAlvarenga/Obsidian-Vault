@@ -10,7 +10,7 @@ aliases:
 
 Written by [[Joseph Campbell]]
 
-Originally published in 1949
+Originally published in 1949.
 
 It is considered a work of [[comparative mythology]] and discusses the (similar) structure of different myths. This work originated the term of Hero's Journey or the [[monomyth]] as he called it in his work. 
 

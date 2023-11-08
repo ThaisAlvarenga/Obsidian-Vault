@@ -1,4 +1,4 @@
-#terms
+#terms #narratology 
 
 Key academics:
 - [[murray-2017|Janet Murray]]

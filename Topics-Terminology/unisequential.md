@@ -1,4 +1,4 @@
-#terms 
+#terms #narratology 
 
 Stories that have only one narrative path. This is independent from the medium in which the story is presented. 
 

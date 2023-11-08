@@ -1,4 +1,4 @@
-#terms #Narratology 
+#terms #narratology
 
 [[Narrative structure]] proposed by [[Joseph Campbell]] in the book [[campbell-2008|Hero With A Thousand Faces]]. It is also known as **monomyth**. 
 

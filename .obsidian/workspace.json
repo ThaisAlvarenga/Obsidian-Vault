@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f59b99ae897f5cb",
+        "id": "71d79c7324d5d02b",
         "type": "tabs",
         "children": [
           {
-            "id": "99fdf73ff206a608",
+            "id": "70fdb9a121b7cfd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/2023-11-06.md",
+                "file": "MyPapers/Digra 2023/Digra-2023-Outline.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reflections/2023-11-06.md"
+                "file": "MyPapers/Digra 2023/Digra-2023-Outline.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reflections/2023-11-06.md",
+                "file": "MyPapers/Digra 2023/Digra-2023-Outline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,13 +117,47 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "e1a7e1a2d754a4e5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "MyPapers/Digra 2023/Digra-2023-Outline.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7181119245642333,
+                  "close": true
+                }
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,49 +170,49 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "99fdf73ff206a608",
+  "active": "70fdb9a121b7cfd3",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Topics-Terminology/gothic.md",
-    "Topics-Terminology/monomyth or The Hero's Journey.md",
+    "MyPapers/Digra 2023/Digra-Abstract-Road-To-Acceptance.canvas",
+    "MyPapers/Digra 2023/Digra-2023-Outline.md",
+    "MyPapers/Digra 2023",
+    "Topics-Terminology/ludonarrative-dissonance-in-VR.md",
+    "Dictionary.md",
+    "Topics-Terminology/ludonarrative dissonance.md",
+    "Topics-Terminology/ludonarrative consistency.md",
+    "Topics-Terminology/Celeste-shows-great-ludonarrative-consistency.md",
     "Topics-Terminology/ludonarrative.md",
-    "Topics-Terminology/haptics.md",
-    "Topics-Terminology/ludology of the oppressed.md",
-    "Topics-Terminology/ludology.md",
-    "Topics-Terminology/holograms.md",
-    "Topics-Terminology/multisequential.md",
-    "Topics-Terminology/narratology.md",
-    "Topics-Terminology/unisequential.md",
-    "Topics-Terminology/spatial narrative.md",
-    "Topics-Terminology/holodeck.md",
+    "Media/September 12.md",
+    "Topics-Terminology/Celeste-and-the-importance-of-climbing-the-mountain.md",
+    "Permanent Notes",
+    "MyPapers/Digra 2023/Digra-2023-Thesis.md",
+    "Permanent Notes/VR-offers-unique-potential-for-mental-health.md",
+    "MyPapers/Road to Acceptance.md",
+    "Bibliography.md",
     "References/srinivasan-1995.md",
-    "Narratology/Solace-is-multisequential-and-nonlinear.md",
-    "References/XR/maraffi-2022.md",
-    "References/Narratology/ryan-2001.md",
-    "References/XR/murray-2017.md",
-    "References/frasca-2001.md",
-    "References/Narratology/ryan-2006.md",
+    "Topics-Terminology/narrative transportation.md",
+    "Topics-Terminology/narrativity.md",
+    "Reflections/ludonarratives-of-the-oppressed-research-questions.md",
+    "Reflections/2023-11-06.md",
+    "Topics-Terminology/ludology of the oppressed.md",
+    "References/Education/1968-Freire.md",
     "References/Narratology/mckee-2005.md",
     "References/Narratology/campbell-2008.md",
-    "Reading List.md",
-    "Narratology/Narrative structure.md",
-    "Reflections/VR can help us enter character minds.md",
-    "Reflections/ludonarratives-of-the-oppressed-research-questions.md",
+    "References/Narratology/ryan-2006.md",
+    "References/Narratology/ryan-2001.md",
+    "References/XR/murray-2017.md",
     "Random/obsidian-vr-logo.png",
+    "Media Theory.canvas",
     "Random/home.gif",
+    "Literary Notes",
+    "References/Education",
+    "Other-Non-Media-Topics/1968-Freire.md.sb-5c685054-9sNkdu",
+    "Other-Non-Media-Topics/Disability Studies",
+    "References/Disability Studies",
+    "Untitled.canvas",
     "Random/Screenshot 2023-11-06 at 03.48.23.png",
-    "Papers/Digra-Abstract-Road-To-Acceptance.canvas",
     "Literature Notes",
     "How to take notes",
-    "Papers",
-    "Media Theory.canvas",
-    "Home.md.sb-5c685054-cVdfP3",
-    "Home.md.sb-5c685054-cWoFt3",
-    "Home.md.sb-5c685054-svHLWa",
-    "Dashboard.md.sb-5c685054-4HjemM",
-    "Other-Non-Media-Topics/Psychology",
-    "Random",
-    "Narratology",
+    "MyPapers",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",

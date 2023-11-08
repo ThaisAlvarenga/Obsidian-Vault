@@ -12,6 +12,8 @@ aliases:
   - What is haptics
 ---
 
+# What is haptics
+
 [[Bibliography]]
 Srinivasan, Mandayam A. "What is haptics." _Laboratory for Human and Machine Haptics: The Touch Lab, Massachusetts Institute of Technology_ (1995)
 

@@ -13,9 +13,10 @@ aliases:
 # VR Storytelling for Social Justice and the Ethics of Playing Black Bodies
 
 [[Bibliography]]
-Maraffi, Christopher. "VR Storytelling for Social Justice and the Ethics of Playing Black Bodies." _The Changing Face of VR: Pushing the Boundaries of Experience across Multiple Industries_ (2022): 17-33.
+	Maraffi, Christopher. "VR Storytelling for Social Justice and the Ethics of Playing Black Bodies." _The Changing Face of VR: Pushing the Boundaries of Experience across Multiple Industries_ (2022): 17-33.
 
-> This literature is from the essay in Chapter 2 of the book The Changing Face of VR: Pushing the Boundaries of Experience Across Multiple Industries 
+This literature is from the essay in Chapter 2 of the book The Changing Face of VR: Pushing the Boundaries of Experience Across Multiple Industries 
+
 --- 
 
 My thoughts

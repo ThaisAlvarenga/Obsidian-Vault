@@ -1,0 +1,1 @@
+A type of socio-economic analysis that originates from philosophers Karl Marx and Friedrich Engels. 

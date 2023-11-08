@@ -1,4 +1,4 @@
-#extended-reality
+#extended-reality #terms 
 
 An image formed by an imaging technique that uses an interference pattern of scattered rays of light to reconstruct a 3D image of the original object that originated the light-rays.
 

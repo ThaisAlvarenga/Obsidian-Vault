@@ -2,6 +2,7 @@
 tags:
   - Books
   - Narratology
+  - extended-reality
 aliases:
   - Hamlet on the Holodeck
   - Murray
@@ -16,9 +17,10 @@ Topics:
 Written by [[Janet H. Murray]]
 
 [[Bibliography]]
-Murray, Janet H. _Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace_. MIT press, 2017.
+	Murray, Janet H. _Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace_. MIT press, 2017.
 
->  The original version is from 1997, but my physical copy of the book is from the 2016-2017 update.
+The original version is from 1997, but my physical copy of the book is from the 2016-2017 update.
+
 ---
 
 The book's name comes from the [[holodeck]] device in the [[Star Trek]] universe and the author's love for English Literature. 
