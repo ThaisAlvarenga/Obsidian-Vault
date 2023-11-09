@@ -1,0 +1,1 @@
+Grupo indígena (pueblo originario) de la región noroeste de Michoacán, México. 

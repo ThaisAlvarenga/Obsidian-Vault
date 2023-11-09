@@ -1,0 +1,1 @@
+Taking notes based on existing knowledge about a subject. 

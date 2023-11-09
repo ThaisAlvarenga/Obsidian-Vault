@@ -7,5 +7,6 @@
     "dashboard",
     "dashboard-ReadLineLength"
   ],
-  "cssTheme": "Serenity"
+  "cssTheme": "Serenity",
+  "baseFontSize": 14
 }

@@ -6,7 +6,7 @@ Introduction
 
 Introduce Solution (our paper)
 - Our project, Road To Acceptance, explores methods (animation and voice over) to establish inner voice as a way to create empathy between the interactor and the main character. 
-- [[Digra-2023-Thesis]]
+- [[Thesis-Digra-2023]]
 
 - Talk about the use of **Subjective Narrative** (whose medium is the voiceover)
 - 

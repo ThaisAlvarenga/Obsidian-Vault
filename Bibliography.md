@@ -3,6 +3,7 @@ aliases:
   - references
 ---
 
+Page to collect relevant bibliographies
 ```page-gallery
 # Any options given at the root level of the configuration
 # will be used as defaults for all views (but can be overridden

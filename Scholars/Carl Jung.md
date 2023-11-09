@@ -1,6 +1,4 @@
-(1875 – 1961)
-
-[[People]]
+[[People]]   1875 – 1961
 
 He was a Swiss psychiatrist and psychoanalyst and founder of the field of [[Jungian psychology]]. It is also called Jungian psychology. 
 

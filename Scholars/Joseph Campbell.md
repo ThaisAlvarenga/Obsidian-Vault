@@ -1,3 +1,4 @@
+[[People]]     1904 - 1987
 
 His work [[campbell-2008|The Hero With A Thousand Faces]], coined the [[monomyth]] also known as the Hero's Journey. 
 

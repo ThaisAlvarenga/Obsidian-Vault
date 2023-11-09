@@ -1,0 +1,1 @@
+Creating notes about your own thoughts and ideas that contribute to conversations based on existing knowledge. 

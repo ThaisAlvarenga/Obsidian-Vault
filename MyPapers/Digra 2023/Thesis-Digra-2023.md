@@ -14,4 +14,4 @@ Character inner voice increments the narrativity of an experience.
 - grief 
 - [[ludonarrative]]
 
-[[Digra-2023-Outline]]
+[[Outline-Digra-2023]]

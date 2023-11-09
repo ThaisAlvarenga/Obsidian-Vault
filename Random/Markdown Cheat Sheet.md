@@ -28,7 +28,7 @@ The is a ==highlight== in this sentence
 
 > This is the ~~call out quote~~ and it's footnote[^1]
 
-This is an %%inline%% comment.
+This is an %%inline%% comment^[My footnote].
 
 Unordered:
 - and 
