@@ -8,3 +8,8 @@ Ideas:
 - [ ] Location based website ^[Try somewhere in Honduras] You could use a parallax effect [like this one](https://www.youtube.com/watch?v=Yo3j_Dx4u7c).
 - [ ] App that actually does something for my organization
 - [ ] Parallax effect comic/story based on [this video](https://www.youtube.com/watch?v=F5ZKI-g-_qo&t=1788s)
+- [ ] Tournament Arc simulator. Idea came from [this Youtube video](https://www.youtube.com/watch?v=n2B-FClr5rA). 
+- [ ] Management System
+- [ ] Productivity App or something I can use for work
+- [ ] Something with an API ^[I would like to do it with Spotify. Maybe catering your playlist dependent on the emotion you want to feel.]
+- [ ] Maybe an app that gives you movie recommendations based on what you want to learn about storytelling

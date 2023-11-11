@@ -3,8 +3,7 @@ aliases:
   - terminology
   - dictionary
   - topics
-tags:
-  - terms
+tags: []
 ---
 
 ###### [[haptics]]

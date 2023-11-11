@@ -25,7 +25,7 @@ The original version is from 1997, but my physical copy of the book is from the 
 
 The book's name comes from the [[holodeck]] device in the [[Star Trek]] universe and the author's love for English Literature. 
 
-[[computers-as-the-child-of-print-culture]]
+[[computers as the child of print culture]]
 
 💡 I enjoyed Murray's feminist writing. It's very nuanced in the overall view of the book, but I appreciated how she wrote about women. A highlight was the section in chapter 1, [[The Thinking Woman's Feely]]
 

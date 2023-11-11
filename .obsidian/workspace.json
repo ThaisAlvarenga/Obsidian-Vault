@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "16f4ceb6d655dec7",
+        "id": "1814c365dd13c324",
         "type": "tabs",
         "children": [
           {
-            "id": "65876ea4c4cea23b",
+            "id": "9ee7430d7dfcc86e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliography.md",
-                "mode": "preview",
+                "file": "Home.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c5fdb71e2cedafa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Psychology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bibliography.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,11 +130,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bibliography.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -147,18 +152,17 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9232783993418633,
+                  "scale": 0.8747057136600324,
                   "close": true
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 665.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,41 +175,42 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "65876ea4c4cea23b",
+  "active": "4c5fdb71e2cedafa",
   "lastOpenFiles": [
-    "People.md",
+    "Untitled.md",
     "Home.md",
-    "Reflections/ludonarratives-of-the-oppressed-research-questions.md",
-    "Reflections/no-sentirme-segura-en-mi-situacion.md",
-    "Untitled.canvas",
-    "MyProjects/12 Months, 12 Apps (or Websites).md",
-    "Other-Non-Media-Topics/Disability Studies/social model.md",
-    "Other-Non-Media-Topics/Psychology/Jungian Shadow.md",
-    "Other-Non-Media-Topics/Psychology/Jungian psychology.md",
-    "Other-Non-Media-Topics/Psychology/Jungian archetype.md",
-    "Other-Non-Media-Topics/Psychology/collective unconscious.md",
-    "Other-Non-Media-Topics/Freire was exiled from Brazil.md",
-    "Other-Non-Media-Topics/Marxist class analysis.md",
-    "Other-Non-Media-Topics/Poema purépecha.md",
-    "Other-Non-Media-Topics/Purépecha.md",
-    "Other-Non-Media-Topics/war-against-terrorism.md",
-    "Narratology/sequential-vs-linear.md",
-    "MyPapers/Digra 2023/Outline-Digra-2023.md",
-    "MyPapers/Digra 2023/Digra-Abstract-Road-To-Acceptance.canvas",
-    "MyPapers/Digra 2023/Thesis-Digra-2023.md",
-    "How to take notes/Zettelkasten system.md",
-    "How to take notes/note-making.md",
-    "How to take notes/note-taking.md",
-    "How to take notes/literature notes.md",
-    "MyProjects/Road to Acceptance.md",
     "Scholars/Jean Piaget.md",
+    "Extended bibliography.md",
+    "Media Theory.canvas",
+    "Dictionary.md",
+    "People.md",
+    "Scholars/Paulo Freire.md",
+    "References/Education/1968-Freire.md",
+    "holocharacters.md",
+    "Topics-Terminology/holodeck.md",
+    "Topics-Terminology/gothic literature.md",
+    "References/Education/pedagogies of the oppressed.md",
+    "Reading List.md",
+    "Permanent Notes/Celeste-and-the-importance-of-climbing-the-mountain.md",
+    "Permanent Notes/Celeste-shows-great-ludonarrative-consistency.md",
     "Scholars/Marie-Laure Ryan.md",
-    "Scholars/Joseph Campbell.md",
+    "Scholars/Elin Carstensdottir.md",
+    "Scholars/Carl Jung.md",
+    "Scholars/Enrique Dussel.md",
+    "Scholars/Gonzalo Frasca.md",
+    "Scholars/Janet H. Murray.md",
+    "Bibliography.md",
+    "Creative Coding.md",
+    "References/Disability Studies/donaldson-2002.md",
+    "MyProjects/Projects_MOC.md",
+    "Reflections/no-sentirme-segura-en-mi-situacion.md",
+    "MyProjects/MyPapers/Digra 2023/Digra-Abstract-Road-To-Acceptance.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "MyProjects",
-    "MyPapers/Digra 2023",
+    "MyProjects/MyPapers/Digra 2023",
     "Permanent Notes",
     "Random/obsidian-vr-logo.png",
-    "Media Theory.canvas",
     "Random/home.gif",
     "Literary Notes",
     "References/Education",
@@ -215,7 +220,6 @@
     "Random/Screenshot 2023-11-06 at 03.48.23.png",
     "Literature Notes",
     "How to take notes",
-    "Untitled 1.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas"

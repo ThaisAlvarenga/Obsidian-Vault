@@ -3,19 +3,21 @@ cssclasses:
   - dashboard
 ---
 ![[home.gif]]
-# Research
+# Discovery
 - ✈️ Navigation
 	- [[Bibliography]]
+	- [[Projects_MOC]]
 	- [[People]]
-	- [[Dictionary]]
-- 🌐 Useful Links
-	- [[Markdown Cheat Sheet]]
-	- [[Reading List]]
-	- [[Literary Works]]
-- 📱 Widgets/Shortcuts
-	- [Sync Obsidian with Github](https://curtismchale.ca/2022/05/18/sync-your-obsidian-vault-for-free-with-github/)
 
-# Technical Skills
+- 🌐 Useful Links
+	- [[Reading List]]
+	- [[Extended bibliography]]
+	- [[Dictionary]]
+	- [[Markdown Cheat Sheet]]
+- 📱 Widgets/Shortcuts
+
+
+# Technical
 - Programming
 	- [[Creative Coding]]
  - Design
@@ -27,7 +29,7 @@ cssclasses:
 - 🗂️ Recent file updates
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - 📕 Terms
- `$=dv.list(dv.pages('#terms').sort(f=>f.file.name,"desc").limit(4).file.link)`
+ `$=dv.list(dv.pages('#terms').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - 〽️ Stats
 	-  File Count: `$=dv.pages().length`
 

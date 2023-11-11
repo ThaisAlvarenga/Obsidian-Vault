@@ -1,4 +1,4 @@
-#Books 
+#Books #literary-works 
 
 Dystopian book by [[Aldous Huxley]], considered to be ~~(one of?)~~ the first of its genre. 
 

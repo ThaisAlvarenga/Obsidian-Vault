@@ -1,6 +1,5 @@
 ---
 tags:
-  - terms
   - education
   - oppression
 Topics:
@@ -21,7 +20,7 @@ Published for the first time in 1968, in Spanish though the original manuscript 
 
 ---
 
-Proposes the educational theory of pedagogies of the oppressed. 
+Proposes the educational theory of [[pedagogies of the oppressed]]. 
 
 Draws on [[Jean Piaget]]'s the idea that knowledge is **not transmitted but constructed**, and that construction can be detrimental if it is imposed by oppressors. 
 
