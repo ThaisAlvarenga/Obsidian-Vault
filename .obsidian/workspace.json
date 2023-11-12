@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
+                "file": "MyProjects/12 Months, 12 Apps (or Websites).md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -28,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Psychology",
+                "query": "clases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MyProjects/12 Months, 12 Apps (or Websites).md"
+              }
             }
           },
           {
@@ -114,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MyProjects/12 Months, 12 Apps (or Websites).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "MyProjects/12 Months, 12 Apps (or Websites).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,11 +161,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 665.5
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +179,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4c5fdb71e2cedafa",
+  "active": "9ee7430d7dfcc86e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "MyProjects/Projects_MOC.md",
+    "Programming/Java Clases y Herencia.md",
+    "Programming",
     "Home.md",
+    "Untitled.md",
     "Scholars/Jean Piaget.md",
     "Extended bibliography.md",
     "Media Theory.canvas",
@@ -202,8 +209,6 @@
     "Bibliography.md",
     "Creative Coding.md",
     "References/Disability Studies/donaldson-2002.md",
-    "MyProjects/Projects_MOC.md",
-    "Reflections/no-sentirme-segura-en-mi-situacion.md",
     "MyProjects/MyPapers/Digra 2023/Digra-Abstract-Road-To-Acceptance.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -219,7 +224,6 @@
     "References/Disability Studies",
     "Random/Screenshot 2023-11-06 at 03.48.23.png",
     "Literature Notes",
-    "How to take notes",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas"

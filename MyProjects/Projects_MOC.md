@@ -8,6 +8,7 @@ cssclasses:
 # Interactive Media Programming/Design
 - Ideas
 	- [[12 Months, 12 Apps (or Websites)]]
+	- Interactive Effects in Touchdesigner
 
 - In-Progress
 	- [[VR-Headset]]
