@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyProjects/12 Months, 12 Apps (or Websites).md",
-                "mode": "preview",
+                "file": "Programming/Java Clases y Herencia.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyProjects/12 Months, 12 Apps (or Websites).md"
+                "file": "Programming/Java Clases y Herencia.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyProjects/12 Months, 12 Apps (or Websites).md",
+                "file": "Programming/Java Clases y Herencia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MyProjects/12 Months, 12 Apps (or Websites).md",
+                "file": "Programming/Java Clases y Herencia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,8 +181,13 @@
   },
   "active": "9ee7430d7dfcc86e",
   "lastOpenFiles": [
-    "MyProjects/Projects_MOC.md",
+    "Programming/Libraries and Frameworks.md",
     "Programming/Java Clases y Herencia.md",
+    "Random/Markdown Cheat Sheet.md",
+    "Random/obsidian-vr-logo.png",
+    "Random/Serenity-Obsidian-Theme.md",
+    "MyProjects/12 Months, 12 Apps (or Websites).md",
+    "MyProjects/Projects_MOC.md",
     "Programming",
     "Home.md",
     "Untitled.md",
@@ -205,17 +210,12 @@
     "Scholars/Carl Jung.md",
     "Scholars/Enrique Dussel.md",
     "Scholars/Gonzalo Frasca.md",
-    "Scholars/Janet H. Murray.md",
-    "Bibliography.md",
-    "Creative Coding.md",
-    "References/Disability Studies/donaldson-2002.md",
     "MyProjects/MyPapers/Digra 2023/Digra-Abstract-Road-To-Acceptance.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "MyProjects",
     "MyProjects/MyPapers/Digra 2023",
     "Permanent Notes",
-    "Random/obsidian-vr-logo.png",
     "Random/home.gif",
     "Literary Notes",
     "References/Education",

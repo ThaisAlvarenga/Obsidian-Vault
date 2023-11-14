@@ -168,6 +168,14 @@ La invalidación no cambia los parámetros, solo la lógica.
 
 ## Abstracción
 
+La abstracción se puede definir de varias formas. Nos centraremos en la idea de alejarnos de una función específica para adoptar una más general.
+
+Piense en abstracción como el proceso de pasar de una tarea más específica a una tarea más general. Por lo tanto, en lugar de llamar a un constructor que siempre realice las mismas tareas, podríamos transferir valores que nos permitieran cambiar la configuración inicial.
+
+- La abstracción tiene la finalidad de reducir la duplicación de información en un programa mediante el uso de abstracciones
+
+- El principio de abstracción puede ser un concepto general como "no repetirse a sí mismo"
+
 Una clase abstracta es aquella a la que no se le puede declarar una instancia. No se puede crear objetos de ese tipo. 
 
 Se declaran usando la palabra `abstract`:
@@ -183,4 +191,5 @@ public abstract class Bicycle
 Para heredar de una clase abstracta:
 - Se debe declarar al hijo como abstracto
 - Se debe invalidar todos los métodos abstractos
+
 - [I] Si esto no se hace se provoca un error de compilación 
